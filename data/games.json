@@ -1,0 +1,24 @@
+```json
+[
+{
+"id":1,
+"name":"Blox Fruits",
+"thumbnail":"https://tr.rbxcdn.com/bloxfruits.png",
+"codes":[
+"SUB2GAMERROBOT_EXP1",
+"SUB2GAMERROBOT_RESET"
+],
+"developer":"Gamer Robot Inc"
+},
+
+{
+"id":2,
+"name":"Brookhaven",
+"thumbnail":"https://tr.rbxcdn.com/brookhaven.png",
+"codes":[
+"10000LIKES"
+],
+"developer":"Wolfpaq"
+}
+]
+```
